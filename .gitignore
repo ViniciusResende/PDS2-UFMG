@@ -1,3 +1,4 @@
 .vscode
 *.out
 *.zip
+doctest.h
